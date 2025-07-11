@@ -13,7 +13,7 @@ const difficulties = {
 const IGNORED_INGREDIENTS = ['Beef Patty', 'Crispy Chicken Breast', 'Grilled Chicken Breast'];
 
 
-export default function SandwichQuizGame() {
+export default function Index() {
     const [screen, setScreen] = useState('start');
     const [difficulty, setDifficulty] = useState('medium');
     const [question, setQuestion] = useState(null);
