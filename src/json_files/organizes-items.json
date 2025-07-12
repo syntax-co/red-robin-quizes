@@ -1,0 +1,291 @@
+{
+    "sandwiches":{
+        "section One":{
+            "Haystack Tavern": [
+                "Campfire Sauce",
+                "American Cheese",
+                "Red Robin Seasoning",
+                "American Cheese",
+                "Red Robin Seasoning",
+                "Beef Patty",
+                "Onion Straws",
+                "Campfire Sauce"
+            ],
+            "Red’s Double (Tavern Double)": [
+                "Thousand Island",
+                "Lettuce",
+                "Tomato",
+                "American Cheese",
+                "Red Robin Seasoning",
+                "American Cheese",
+                "Red Robin Seasoning",
+                "Beef Patty",
+                "Thousand Island"
+            ],
+            "Pig Out Tavern": [
+                "Mayo",
+                "Bacon Bits",
+                "Lettuce",
+                "Tomato",
+                "Candied Bacon",
+                "American Cheese",
+                "Red Robin Seasoning",
+                "American Cheese",
+                "Red Robin Seasoning",
+                "Beef Patty",
+                "Bacon Bits",
+                "Mayo"
+            ],
+            "Impossible Burger": [
+                "Mayo",
+                "Lettuce",
+                "Tomato",
+                "Guest Choice Cheese",
+                "Impossible Patty",
+                "Onion",
+                "Pickles",
+                "Red’s Relish"
+            ],
+            "Turkey Burger": [
+                "Chipotle Aioli",
+                "Lettuce",
+                "Tomato",
+                "Pepperjack Cheese",
+                "Turkey Patty",
+                "Chipotle Aioli"
+            ],
+            "Veggie Burger": [
+                "Garlic Aioli",
+                "Lettuce",
+                "Avocado",
+                "Salsa",
+                "Swiss Cheese",
+                "Veggie Patty",
+                "Garlic Aioli"
+            ]
+        },
+        "section Two":{
+            "BLTA": [
+                "Mayo",
+                "Bacon Strips",
+                "Avocado",
+                "Red Robin Seasoning",
+                "Turkey",
+                "Tomato",
+                "Lettuce",
+                "Mayo"
+            ],
+            "Crispy Chicken": [
+                "Mayo",
+                "Lettuce",
+                "Tomato",
+                "Crispy Chicken Breast",
+                "Pickles",
+                "Mayo"
+            ],
+            "Teriyaki Chicken": [
+                "Mayo",
+                "Lettuce",
+                "Tomato",
+                "Pineapple Ring",
+                "Swiss Cheese",
+                "Teriyaki Sauce",
+                "Grilled Chicken Breast",
+                "Mayo"
+            ],
+            "California Chicken": [
+                "Smashed Avocado",
+                "Lettuce",
+                "Tomato",
+                "Bacon Strips",
+                "Swiss Cheese",
+                "Grilled Chicken Breast",
+                "Pickles",
+                "Mayo"
+            ],
+            "BBQ Chicken": [
+                "Mayo",
+                "Lettuce",
+                "Tomato",
+                "Cheddar Cheese",
+                "BBQ Sauce",
+                "Grilled Chicken Breast",
+                "Onion Straws",
+                "Mayo"
+            ],
+            "Hot Honey Chicken": [
+                "Green Chili Aioli",
+                "Mikes Hot Honey",
+                "Crispy Chicken Breast",
+                "Dry Coleslaw",
+                "Fresh Jalapeno Chips",
+                "Green Chili Aioli"
+            ]
+        }
+    },
+    "Section Three": {
+        "MadLove": [
+            "Smashed Avocado",
+            "Jalapeno Relish",
+            "Lettuce",
+            "Tomato",
+            "Candied Bacon",
+            "Cheddar and Parm Mix",
+            "Pepperjack Cheese",
+            "Swiss Cheese",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Onion",
+            "Jalapeno Relish"
+        ],
+        "Bacon Cheeseburger": [
+            "Mayo",
+            "Lettuce",
+            "Tomato",
+            "Bacon Strips",
+            "Guest Choice Cheese",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Mayo"
+        ],
+        "Whiskey River BBQ": [
+            "Mayo",
+            "Lettuce",
+            "Tomato",
+            "Cheddar Cheese",
+            "BBQ Sauce",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Onion Straws",
+            "Mayo"
+        ],
+        "Red Robin Gourmet Cheeseburger": [
+            "Mayo",
+            "Lettuce",
+            "Tomato",
+            "Guest Choice Cheese",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Onion",
+            "Pickles",
+            "Reds Relish"
+        ],
+        "Royal Red Robin": [
+            "Mayo",
+            "Egg",
+            "Bacon Strips",
+            "American Cheese",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Lettuce",
+            "Tomato",
+            "Mayo"
+        ],
+        "Banzai": [
+            "Mayo",
+            "Lettuce",
+            "Tomato",
+            "Pineapple Ring",
+            "Cheddar Cheese",
+            "Teriyaki Sauce",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Mayo"
+        ]
+    },
+    "Section Four": {
+        "Lava Queso": [
+            "Cilantro",
+            "Queso Fundido",
+            "Chipotle Aioli",
+            "Tomato",
+            "Jalapeno/Onion Blend",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Chipotle Aioli"
+        ],
+        "Jalapeno Heatwave": [
+            "Smashed Avocado",
+            "Fried Jalapeno Coins",
+            "Jalapeno/Onion Blend",
+            "Pepperjack Cheese",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Green Chili Aioli"
+        ],
+        "Scorpion": [
+            "Garlic Aioli",
+            "Lettuce",
+            "Tomato",
+            "Fried Jalapeno Coins",
+            "Pepperjack Cheese",
+            "Scorpion Sauce",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Hot Rings",
+            "Pickles",
+            "Garlic Aioli"
+        ],
+        "Monster Double": [
+            "Mayo",
+            "Lettuce",
+            "Tomato",
+            "Guest Choice Cheese",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Guest Choice Cheese",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Onion",
+            "Pickles",
+            "Relish"
+        ],
+        "Smashed Avocado and Bacon": [
+            "Smashed Avocado",
+            "Lettuce",
+            "Tomato",
+            "Bacon",
+            "Swiss Cheese",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Onion",
+            "Mayo"
+        ],
+        "Southern Charm": [
+            "Mayo",
+            "Lettuce",
+            "Grilled Onions",
+            "Candied Bacon",
+            "Cheddar Cheese",
+            "BBQ Sauce",
+            "Red Robin Seasoning",
+            "Beef Patty",
+            "Mayo"
+        ]
+    },
+    "Wraps": {
+        "Crispy Chicken Wrap": [
+            "Ranch",
+            "Shredded Lettuce",
+            "Shredded Cheddar Cheese",
+            "Diced Tomato",
+            "Bacon Bits",
+            "Chicken Tenders"
+        ],
+        "BBQ Chicken Wrap": [
+            "Ranch",
+            "Shredded Lettuce",
+            "Shredded Cheddar Cheese",
+            "Tortilla Strips",
+            "Grilled Chicken Breast",
+            "BBQ Sauce"
+        ],
+        "Everything Grilled Chicken Caesar Wrap": [
+            "Everything Caesar Dressing",
+            "Romaine Lettuce",
+            "Diced Tomato",
+            "Shaved Parmesan Cheese",
+            "Grilled Chicken Breast"
+        ]
+  }
+}
